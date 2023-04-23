@@ -42,8 +42,8 @@ And so my journey began.
 </div>
 <p> </p>
 <div align="center">
-    <a href="https://github.com/moon-strider/upgraded-octo-tribble">
-        <img width='49%' align="center" src="https://github-readme-stats-wheat-mu-31.vercel.app/api/pin/?username=moon-strider&repo=upgraded-octo-tribble&border_color=004AE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=B371F5" />
+    <a href="https://github.com/moon-strider/pyml">
+        <img width='49%' align="center" src="https://github-readme-stats-wheat-mu-31.vercel.app/api/pin/?username=moon-strider&repo=pyml&border_color=004AE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=B371F5" />
     </a>
     <span>&nbsp;</span>
     <a href="https://github.com/moon-strider/recursive-sudoku">
