@@ -62,7 +62,8 @@ And so my journey began.
   </a>
 </div>
 
-[![moon-strider's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=moon-strider&custom_title=moon-strider%20's%20Contribution%20Graph&bg_color=ffffff00&hide_border=true&line=004AE9&point=B371F5&title_color=B371F5&color=C9D1D9)](https://github.com/moon-strider/github-readme-activity-graph)
+[![moon-strider's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moon-strider&custom_title=moon-strider%20's%20Contribution%20Graph&bg_color=ffffff00&hide_border=true&line=004AE9&point=B371F5&title_color=B371F5&color=C9D1D9)](https://github.com/moon-strider/github-readme-activity-graph)
+<br>
 
 ---
 
