@@ -29,35 +29,9 @@ And so my journey began.
 
 ---
 
-### My favorite projects
-<div align="center">
-    <a href="https://github.com/moon-strider/clip-comparison">
-        <img width='49%' align="center" src="https://github-readme-stats-wheat-mu-31.vercel.app/api/pin/?username=moon-strider&repo=clip-comparison&border_color=B371F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=004AE9" />
-    </a>
-    <span>&nbsp;</span>
-    <a href="https://github.com/moon-strider/jeeja-image-labeller">
-         <img width='49%' align="center" src="https://github-readme-stats-wheat-mu-31.vercel.app/api/pin/?username=moon-strider&repo=jeeja-image-labeller&border_color=B371F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=004AE9" />
-    </a>
-
-</div>
-<p> </p>
-<div align="center">
-    <a href="https://github.com/moon-strider/pyml">
-        <img width='49%' align="center" src="https://github-readme-stats-wheat-mu-31.vercel.app/api/pin/?username=moon-strider&repo=pyml&border_color=004AE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=B371F5" />
-    </a>
-    <span>&nbsp;</span>
-    <a href="https://github.com/moon-strider/recursive-sudoku">
-        <img width='49%' align="center" src="https://github-readme-stats-wheat-mu-31.vercel.app/api/pin/?username=moon-strider&repo=recursive-sudoku&border_color=004AE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=B371F5" />
-    </a>
-</div>
-<p> </p>
-
----
-
 ### My Stats
 
 <div align="left">
-    <img width="49.5%" src="https://github-readme-stats-wheat-mu-31.vercel.app/api?username=moon-strider&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=B371F5&text_color=C9D1D9&icon_color=004AE9" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=moon-strider&hide_border=true&background=ffffff00&ring=004AE9&fire=B371F5&currStreakNum=B371F5&currStreakLabel=B371F5&sideNums=004AE9&sideLabels=C9D1D9&dates=8B949E" />
   </a>
 </div>
