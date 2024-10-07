@@ -1,5 +1,5 @@
 ### Let me tell you a bit about myself
-I have a bachelor's degree with honors in informatics and computer science. I have also successfully completed a two-year long couse in School of Big Data Analytics.
+I have a master's degree with honors in Big Data Analytics and Digital platforms. I have also successfully completed a two-year long couse in School of Big Data Analytics.
 
 While I was finishing university, the School of Big Data Analytics really sparkled my interest in computer vision, data science and machine learning in general. 
 
