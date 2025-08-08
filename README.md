@@ -1,9 +1,21 @@
-### Let me tell you a bit about myself
-I have a master's degree with honors in Big Data Analytics and Digital platforms. I have also successfully completed a two-year long couse in School of Big Data Analytics.
+# moon-strider
 
-While I was finishing university, the School of Big Data Analytics really sparkled my interest in computer vision, data science and machine learning in general. 
+Senior AI/ML engineer (LLM & CV). I build pragmatic AI systems — from zero-to-one prototypes to production-ready pipelines — and document them so teams can adopt fast.
 
-And so my journey began.
+**What I work on**
+- LLM integration and agentic workflows
+- Multimodal pipelines (voice, vision, text)
+- Computer vision on prem and in the cloud
+- Lightweight MLOps: evals, cost/latency trade-offs
+
+**Highlights**
+- Anti-cheat analytics for a crypto wallet mini-games platform (~90% precision, 0 false positives — internal estimate)
+- 10+ merged PRs to DeepPavlov’s **Dream** ecosystem (voice, multimodal, agents, ROS, mint, ocean)
+- On-prem CV counting system (<1% error @ ~30 FPS on 1080p)
+
+**Now open to**
+- Collabs, talks, and selective consultations (remote-only)
+- Contact: my.jobo@pm.me
 
 ---
 
