@@ -43,11 +43,6 @@ Senior AI/ML engineer (LLM & CV). I build pragmatic AI systems — from zero-to-
 
 ### My Stats
 
-<div align="left">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=moon-strider&hide_border=true&background=ffffff00&ring=004AE9&fire=B371F5&currStreakNum=B371F5&currStreakLabel=B371F5&sideNums=004AE9&sideLabels=C9D1D9&dates=8B949E" />
-  </a>
-</div>
-
 [![moon-strider's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moon-strider&custom_title=moon-strider%20's%20Contribution%20Graph&bg_color=ffffff00&hide_border=true&line=004AE9&point=B371F5&title_color=B371F5&color=C9D1D9)](https://github.com/moon-strider/github-readme-activity-graph)
 <br>
 
