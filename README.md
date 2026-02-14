@@ -25,6 +25,7 @@ AI/ML Team Lead & Head of AI. I build and ship pragmatic AI systems end-to-end �
 - 🔍 [perplexity-mcp](https://github.com/moon-strider/perplexity-mcp) — MCP server bringing Perplexity's web search and deep research into any AI workflow (Cursor, Claude, Codex, OpenClaw etc.)
 - 🐝 [agent-swarm](https://github.com/moon-strider/swarm-of-experts) - a CLI tool that allows you to process tasks by swarms of llms instead of only one of them (API can be exposed as a server for further integrations)
 - ♜ [age_of_prikol](https://github.com/moon-strider/age_of_prikol) - Age of War inspired game developed in Zig and Raylib to get a feeling for them (also I love Age of War a lot)
+- 🖼️ [jeeja-image-labeller](https://github.com/moon-strider/jeeja-image-labeller) - A simple local image labeller for ML datasets built in C#, supports YOLO export format
 
 **Now open to**
 - Collabs, talks, and selective consultations (remote-only)
