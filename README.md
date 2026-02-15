@@ -21,11 +21,12 @@ AI/ML Team Lead & Head of AI. I build and ship pragmatic AI systems end-to-end �
 - Led various teams on contract basis, helping small startups to go from idea to Launch within months - communicating with founders and investors, translating ideas into decisions, roadmaps and concrete tasks
 
 **FOSS Projects**:
-- 🧩 [agent-injector](https://github.com/moon-strider/agent-injector) — MCP server that lets Claude delegate tasks to alternative LLM providers while keeping full agentic toolset and infrastructure of Claude Code
-- 🔍 [perplexity-mcp](https://github.com/moon-strider/perplexity-mcp) — MCP server bringing Perplexity's web search and deep research into any AI workflow (Cursor, Claude, Codex, OpenClaw etc.)
+- 🧩 [agent-injector](https://github.com/moon-strider/agent-injector) - MCP server that lets Claude delegate tasks to alternative LLM providers while keeping full agentic toolset and infrastructure of Claude Code
+- 🔍 [perplexity-mcp](https://github.com/moon-strider/perplexity-mcp) - MCP server bringing Perplexity's web search and deep research into any AI workflow (Cursor, Claude, Codex, OpenClaw etc.)
 - 🐝 [agent-swarm](https://github.com/moon-strider/swarm-of-experts) - a CLI tool that allows you to process tasks by swarms of llms instead of only one of them (API can be exposed as a server for further integrations)
 - ♜ [age_of_prikol](https://github.com/moon-strider/age_of_prikol) - Age of War inspired game developed in Zig and Raylib to get a feeling for them (also I love Age of War a lot)
 - 🖼️ [jeeja-image-labeller](https://github.com/moon-strider/jeeja-image-labeller) - A simple local image labeller for ML datasets built in C#, supports YOLO export format
+- 🔎 [mcp-probe](https://github.com/moon-strider/mcp-probe) - MCP server automated testing tool
 
 **Now open to**
 - Collabs, talks, and selective consultations (remote-only)
