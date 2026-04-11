@@ -29,6 +29,7 @@ AI/ML Team Lead & Head of AI. I build and ship pragmatic AI systems end-to-end �
 | ♜ | [age_of_prikol](https://github.com/moon-strider/age_of_prikol) | Age of War inspired game developed in Zig and Raylib to get a feeling for them (also I love Age of War a lot) |
 | 🖼️ | [jeeja-image-labeller](https://github.com/moon-strider/jeeja-image-labeller) | A simple local image labeller for ML datasets built in C#, supports YOLO export format |
 | 🔎 | [mcp-probe](https://github.com/moon-strider/mcp-probe) | MCP server automated testing tool |
+| 🦀 | [openclaw-long-tasks](https://github.com/moon-strider/openclaw-long-tasks) | Long multi-step agent-crash resistant task scheduler/orchestrator for OpenClaw |
 
 **Now open to**
 - Collabs, talks, and selective consultations (remote-only)
